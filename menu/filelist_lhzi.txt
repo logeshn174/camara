@@ -1,0 +1,10 @@
+F:\Docs\Web design\mcri\button_bg.png
+F:\Docs\Web design\mcri\buttonhot_bg.png
+F:\Docs\Web design\mcri\menuitemhot_bg.png
+F:\Docs\Web design\mcri\ebab_mbinsmenu0.png
+F:\Docs\Web design\mcri\ebab_mbinsmenu0_d.png
+F:\Docs\Web design\mcri\ebab_mbinsmenu0_c.png
+F:\Docs\Web design\mcri\ebab_mbinsmenu0_c2.png
+F:\Docs\Web design\mcri\mbjsmbinsmenu0.js
+F:\Docs\Web design\mcri\mbcsmbinsmenu0.css
+F:\Docs\Web design\mcri\filelist_lhzi.txt
